@@ -1,0 +1,23 @@
+git add 
+git init
+git add
+git commit -m
+git 
+git status 
+git diff
+git log
+git branch feature
+git add
+
+git checkout feature
+git checkout master
+git merge feature 
+
+
+
+this shit is after the first commit
+
+
+
+
+
